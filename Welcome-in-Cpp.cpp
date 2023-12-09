@@ -12,4 +12,5 @@ int main()
   cout<<"W W   W W\tE\tL\tC\t\tOO\tOO\tM\t M\tE\n";
   cout<<"WW     WW\tEEEEE\tLLLLLL\tCCCCCCCC\tOOOOOOOOOO\tM\t M\tEEEEEEE\n";
   return 0;
+  
 }
